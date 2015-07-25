@@ -1,0 +1,15 @@
+This is some text to practice on.
+
+this is some more text to practice.  I'm trying to figure out motion commands.  There are generally 3 commands that I will use most often:
+
+        - c : change
+        - y : yank (copy)
+        - d : delete
+
+Let's practice some of those now.
+
+exmpales:
+
+        - yw : yank word
+        - yW : yank WORD
+        - yip : yank paragragh

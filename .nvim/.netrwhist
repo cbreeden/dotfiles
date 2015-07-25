@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/breeden/.nvim/plugged/LaTeX-Box'
+let g:netrw_dirhist_2='/home/breeden/.nvim/plugged/LaTeX-Box/ftplugin'
+let g:netrw_dirhist_3='/home/breeden/.nvim'
+let g:netrw_dirhist_4='/home/breeden/.nvim/UltiSnips'
+let g:netrw_dirhist_5='/home/breeden/.nvim'
